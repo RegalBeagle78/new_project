@@ -1,1 +1,2 @@
-This is my new new project.
+# This is my new project
+
